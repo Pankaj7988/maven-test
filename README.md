@@ -1,4 +1,4 @@
-Created by Ninu
+Created by Ninu Sharma
 # Maven - How to run Unit Test
 Maven unit test examples, JUnit 5.
 
